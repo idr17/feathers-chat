@@ -2,6 +2,9 @@
 
 > feathers chat app
 
+## DEMO
+> https://stark-badlands-75405.herokuapp.com
+
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
